@@ -6,8 +6,6 @@ This repository contains the dataset described in:
 
 This repository is currently under construction so please contact the authors for access to the dataset in the meantime:
 
-Mariano Felice
-Shiva Taslimipoor
-Paula Buttery
+Mariano Felice, Shiva Taslimipoor, Paula Buttery
 
 {mf501,st797,pjb48}@cam.ac.uk
