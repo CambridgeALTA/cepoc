@@ -1,4 +1,4 @@
-# The Cambridge Exams Publishing Open Cloze dataset
+# CEPOC: The Cambridge Exams Publishing Open Cloze dataset
 
 This repository contains the dataset described in: 
 
