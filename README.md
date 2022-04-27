@@ -6,7 +6,7 @@ Mariano Felice, Shiva Taslimipoor, Øistein E. Andersen and Paula Buttery. 2022.
 
 ## Composition
 
-This dataset is made up of one file per exam, each containing the following number of open cloze tests.
+This dataset is made up of one JSON file per exam, each containing the following number of open cloze tests.
 
 | Exam              | CEFR | # tests | # gaps |
 |-------------------|------|---------|--------|
